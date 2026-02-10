@@ -1,6 +1,6 @@
 # IToolbox Landing Page - GitHub Pages
 
-**Live Site**: [itoolboxph.github.io](https://itoolboxph.github.io)
+**Live Site**: [IToolbox Landing Page](https://itoolboxph.github.io/IToolbox-Landing-Page/)
 
 ## 🚀 Overview
 
